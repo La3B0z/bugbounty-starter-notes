@@ -4,3 +4,9 @@
 3. web hacking 101
 4. breaking into infromation security
 5. mastering mordern web peneteration testing
+
+# Recon
+1. ASN's(autonomous system numbers)- http://bgp.he.net (ip ranges , keyword searches)
+2. ARIN & RIPE - [arin](http://whois.arin.net/ui) .
+                 [ripe](http://apps.db.ripe.net/db-web-ui/#/fulltextsearch)  whoislookups all
+3.
