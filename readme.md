@@ -13,4 +13,4 @@
 4. shodan - [shodan](shodan.io)
 5. we cannot miss out on **burp**
 6. domlink [domlink](https://github.com/vysecurity/DomLink)
-7. builtwith [link](https://builtwith.com/) and they also has a browser plugin it tells about stack that site is bult on and analytics 
+7. [builtwith](https://builtwith.com/) - they also has a browser plugin it tells about stack that site is bult on and analytics 
