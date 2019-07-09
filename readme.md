@@ -6,7 +6,7 @@
 5. mastering mordern web peneteration testing
 
 # Recon
-* ASN's(autonomous system numbers)- http://bgp.he.net (ip ranges , keyword searches)
+* [ASN's(autonomous system numbers)](http://bgp.he.net) - (ip ranges , keyword searches)
 * ARIN & RIPE - [arin](http://whois.arin.net/ui) 
                  [ripe](http://apps.db.ripe.net/db-web-ui/#/fulltextsearch)  whoislookups all
 * Rev whois - [rev](http://reverse.report)
@@ -46,8 +46,9 @@
   * [brutespray](https://github.com/x90skysn3k/brutespray) 
   
        masscan output => map services scan -oG => brutespray credential bruteforcing.
-       ex: `python brutespray.py --file nmap.gnmap -U `
-  *
+      
+       ex: `python brutespray.py --file nmap.gnmap -U /usr/share/wordlist/user.txt -P /usr/share/wordlist/pass.txt --threads 5 --hosts 5`
+  * Eyewitness
         
       
      
