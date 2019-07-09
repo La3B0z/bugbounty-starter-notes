@@ -75,3 +75,8 @@
  * cmsmap
  * [custom wordlist](https://gist.github.com/jhaddix/b80ea67d85c13206125806f0828f4d10)
  
+# XSS
+* blind xss frameworks 
+    * [bXSS](https://github.com/LewisArdern/bXSS)
+    * [ezXSS](https://github.com/ssl/ezXSS)
+
