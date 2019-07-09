@@ -27,9 +27,11 @@
      #### subdomain bruteforcing
      
      * massdns
+     
         ex:
         `.subbrute.py /root/work/bin/all.txt $TARGET.com | ./bin/massdns -r resolvers.txt -t A -a -o -w massdns_output.txt -`
      * gobuster
+     
         ex
         `gobuster -m dns -u  $TARGET.com -t 100 -w all.txt`
      * best dictonary file : [all.txt](https://gist.github.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a)
@@ -37,10 +39,12 @@
      * [commonspeak](https://github.com/pentester-io/commonspeak)
    
   # Enumeration
-  * masscan 
+  * masscan
+  
       ex: `masscan -p1-65535 -iL $TARGET_LIST --max-rate 10000 -oG $TARGET_OUTPUT`
   * nmap
   * [brutespray](https://github.com/x90skysn3k/brutespray) 
+  
        masscan output => map services scan -oG => brutespray credential bruteforcing.
        ex: `python brutespray.py --file nmap.gnmap -U `
   *
