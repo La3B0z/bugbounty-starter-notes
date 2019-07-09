@@ -49,6 +49,10 @@
       
        ex: `python brutespray.py --file nmap.gnmap -U /usr/share/wordlist/user.txt -P /usr/share/wordlist/pass.txt --threads 5 --hosts 5`
   * Eyewitness
+  * [waybackursls](https://github.com/tomnomnom/waybackurls) enumeration using wayback
         
+ #  Keeping track of all this 
+      Xmind organization
       
+      ![xmind](https://www.photobox.co.uk/my/photo?album_id=5668766848&photo_id=501978862401)
      
