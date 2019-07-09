@@ -56,3 +56,12 @@
       
    ![xmind.png](https://imgbbb.com/images/2019/07/09/xmind.png)
      
+ # Identification and cve searching
+ * buldwith 
+ * retire.js 
+ * [burp-vulners-scanner](https://github.com/vulnersCom/burp-vulners-scanner) 
+ * wappanalyzer 
+ # Parsing Heavy javascript sites 
+ * zap Ajax spider - owasp zap 
+ * [Linkfinder] 
+ * [jsparser]
