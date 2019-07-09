@@ -31,5 +31,8 @@
         `.subbrute.py /root/work/bin/all.txt $TARGET.com | ./bin/massdns -r resolvers.txt -t A -a -o -w massdns_output.txt -`
      * gobuster
         ex
-        `time gobuster -m dns -u  $TARGET.com -t 100 -w all.txt`
-     * best dictonary file :
+        `gobuster -m dns -u  $TARGET.com -t 100 -w all.txt`
+     * best dictonary file : [all.txt](https://gist.github.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a)
+     * [scans.io](https://scans.io/)
+     * [commonspeak](https://github.com/pentester-io/commonspeak)
+     
