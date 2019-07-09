@@ -54,5 +54,5 @@
  #  Keeping track of all this 
       Xmind organization
       
-      ![xmind](https://www.photobox.co.uk/my/photo?album_id=5668766848&photo_id=501978862401)
+   ![xmind.png](https://imgbbb.com/images/2019/07/09/xmind.png)
      
