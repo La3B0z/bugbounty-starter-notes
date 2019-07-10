@@ -84,6 +84,7 @@
     * Sleepy Puppy
 * XSS polyglot
     *
+* [XSS Mindmap](https://github.com/jhaddix/XSS.png)
 
 # SSRF
 * for testing in cloud https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b
