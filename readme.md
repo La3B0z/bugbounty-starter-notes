@@ -79,6 +79,11 @@
 * blind xss frameworks 
     * [bXSS](https://github.com/LewisArdern/bXSS)
     * [ezXSS](https://github.com/ssl/ezXSS)
+    * XSS hunter
+    * KnoXSS
+    * Sleepy Puppy
+* XSS polyglot
+    *
 
 # SSRF
 * for testing in cloud https://gist.github.com/jhaddix/78cece26c91c6263653f31ba453e273b
